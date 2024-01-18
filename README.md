@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Eric Kobrinsky</h1>
 <h3 align="center">I am passionate about analyzing data to solve problems, develop code and designing efficient processes to make people's work easier and I see every day as an opportunity to learn something new and contribute to a better future.</h3>
 
-- 🔭 I’m currently working on [Altera Digital Health](https://www.alterahealth.com/)
+🔭 I’m currently working on [Altera Digital Health](https://www.alterahealth.com/)
 
-- 📫 How to reach me **kobrinskye@gmail.com**
+📫 How to reach me **kobrinskye@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,7 +13,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickobrinsky&show_icons=true&locale=en&layout=compact" alt="erickobrinsky"/></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=erickobrinsky&show_icons=true&locale=en" alt="erickobrinsky"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=erickobrinsky&show_icons=true&locale=en&layout=compact" alt="erickobrinsky"/></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=erickobrinsky&" alt="erickobrinsky"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=erickobrinsky&layout=compact" alt="erickobrinsky"/></p>
 
