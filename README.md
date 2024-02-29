@@ -1,5 +1,3 @@
-![MasterHead](https://cdn.sanity.io/images/599r6htc/localized/a313056d03f6e2734d587ee87c5a38c23936f8e5-5569x3132.png?w=1632&q=75&fit=max&auto=format)
-
 <h1 align="center">Hi 👋, I'm Eric Kobrinsky</h1>
 <h3 align="center">I am passionate about analyzing data to solve problems, develop code and designing efficient processes to make people's work easier and I see every day as an opportunity to learn something new and contribute to a better future.</h3>
 
