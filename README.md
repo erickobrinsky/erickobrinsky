@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eric Kobrinsky</h1>
 <h3 align="center">I am passionate about analyzing data to solve problems, develop code and designing efficient processes to make people's work easier and I see every day as an opportunity to learn something new and contribute to a better future.</h3>
 
-🔭 I’m currently working on [Altera Digital Health](https://www.alterahealth.com/)
+🔭 I’m currently looking for a new job
+Altera Digital Health](https://www.alterahealth.com/) was my last professional experience :)
 
 📫 How to reach me **kobrinskye@gmail.com**
 
